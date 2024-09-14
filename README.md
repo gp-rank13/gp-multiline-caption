@@ -2,7 +2,7 @@
 
 ## Overview
 
-An extension for [Gig Performer](https://gigperformer.com) that allows widget captions/labels to be converted to multiline text. Refer to the Usage section below for details.
+An extension for [Gig Performer](https://gigperformer.com) that allows widget captions/labels to be converted to multiline text. Refer to the _Usage_ section below for details.
 
 > _Disclaimer: This is a user-created extension and is not supported by Deskew Technologies._
 
@@ -10,14 +10,14 @@ An extension for [Gig Performer](https://gigperformer.com) that allows widget ca
 
 Download the extension (library) files for either MacOS or Windows from the [Releases](https://github.com/gp-rank13/gp-multiline-caption/releases) page.  
 
-Mac users will need to move the _libMultilineCaption.dylib_ file into this folder and then restart Gig Performer:
+Mac users will need to move the _libMultilineCaptions.dylib_ file into this folder and then restart Gig Performer:
 ```
 /Users/Shared/Gig Performer/Extensions
 ```
 Mac users will also need to authorize the extension via _System Settings > 
 _Privacy & Security_. Scroll down until you locate an entry that references the extension. Allow it to be loaded and then restart Gig Performer.
 
-Windows users will need to move the _MultilineCaption.dll_ file into this folder and then restart Gig Performer:
+Windows users will need to move the _MultilineCaptions.dll_ file into this folder and then restart Gig Performer:
 ```
 C:\Users\Public\Documents\Gig Performer\Extensions
 ```
